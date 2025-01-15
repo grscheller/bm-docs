@@ -19,7 +19,7 @@ infrastructure for my Python mathematical hobby projects.
 ## Documentation
 
 Detailed documentation for the boring math project can he found
-[here](https://grscheller.github.io/borint-math-docs/).
+[here](https://grscheller.github.io/boring-math-docs/).
 
 ## Source Code
 
