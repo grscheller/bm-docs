@@ -6,15 +6,15 @@ Python project of packages of a mathematical nature. The project
 name was suggested by my then 13 year old daughter Mary.
 
 The Boring Math library consists of Python PyPI namespace packages all
-under the `bm.` name.
+under the **bm.** "namespace."
 
 * bm.integer-math
 * bm.probability-distributions
 * bm.pythagorean-triples
 * bm.recursive-functions
 
-The purpose of this collection of PyPI projects is to host and provide
-infrastructure for my Python mathematical hobby projects.
+The purpose of this collection of PyPI namespace projects is to host
+and provide infrastructure for my Python mathematical hobby projects.
 
 ## Documentation
 
