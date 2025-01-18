@@ -1,12 +1,13 @@
-# Daddy's Boring Math Project
+## Daddy's Boring Math Library
 
 WORK IN PROGRESS - breaking up grscheller/boring-math mono-repo
 
-Python project of packages of a mathematical nature. The project
-name was suggested by my then 13 year old daughter Mary.
+Python project of packages of a mathematical nature.
+
+### Overview:
 
 The Boring Math library consists of Python PyPI namespace packages all
-under the **bm.** "namespace."
+under an empty **bm.** "namespace."
 
 * bm.integer-math
 * bm.probability-distributions
@@ -16,12 +17,14 @@ under the **bm.** "namespace."
 The purpose of this collection of PyPI namespace projects is to host
 and provide infrastructure for my Python mathematical hobby projects.
 
-## Documentation
+The project name was suggested by my then 13 year old daughter Mary.
 
-Detailed documentation for the boring math project can he found
-[here](https://grscheller.github.io/boring-math-docs/).
+### Documentation
 
-## Source Code
+[Detailed documentation](https://grscheller.github.io/boring-math-docs/)
+for the Boring Math project.
+
+### Source Code
 
 GitHub source code subpackage repos:
 
@@ -30,7 +33,7 @@ GitHub source code subpackage repos:
 * [bm.pythagorean_triples](https://github.com/grscheller/bm-pythagorean-triples)
 * [bm.recursive_functions](https://github.com/grscheller/bm-recursive-functions)
 
-## Documentation Generation
+### Documentation Generation
 
 Using the bm.integer-math as an example, here is how one generates the
 docs with [pdoc](https://pypi.org/project/pdoc/). The integer-math
