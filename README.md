@@ -1,4 +1,4 @@
-## Daddy's Boring Math Library
+## Boring Math Library
 
 WORK IN PROGRESS - breaking up grscheller/boring-math mono-repo
 
