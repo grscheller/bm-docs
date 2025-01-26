@@ -21,7 +21,7 @@ The project name was suggested by my then 13 year old daughter Mary.
 
 Projects on PyPI:
 
-* [bm.integer_math](//https://pypi.org/project/bm.integer-math/)
+* [bm.integer_math](https://pypi.org/project/bm.integer-math/)
 * [bm.probability_distributions](https://pypi.org/project/bm.probability-distributions/)
 * [bm.pythagorean_triples](https://pypi.org/project/bm.pythagorean-triples/)
 * [bm.recursive_functions](https://pypi.org/project/bm.recursive-functions/)
