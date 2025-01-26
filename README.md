@@ -21,20 +21,20 @@ The project name was suggested by my then 13 year old daughter Mary.
 
 Projects on PyPI:
 
-* [bm.integer_math](https://pypi.org/project/bm.integer-math/)
-* [bm.probability_distributions](https://pypi.org/project/bm.probability-distributions/)
-* [bm.pythagorean_triples](https://pypi.org/project/bm.pythagorean-triples/)
-* [bm.recursive_functions](https://pypi.org/project/bm.recursive-functions/)
+* [bm.integer-math](https://pypi.org/project/bm.integer-math/)
+* [bm.probability-distributions](https://pypi.org/project/bm.probability-distributions/)
+* [bm.pythagorean-triples](https://pypi.org/project/bm.pythagorean-triples/)
+* [bm.recursive-functions](https://pypi.org/project/bm.recursive-functions/)
 
 
 ## Source Code
 
 GitHub source code repos:
 
-* [bm-integer_math](https://github.com/grscheller/bm-integer-math/)
-* [bm-probability_distributions](https://github.com/grscheller/bm-probability-distributions/)
-* [bm-pythagorean_triples](https://github.com/grscheller/bm-pythagorean-triples/)
-* [bm-recursive_functions](https://github.com/grscheller/bm-recursive-functions/)
+* [bm-integer-math](https://github.com/grscheller/bm-integer-math/)
+* [bm-probability-distributions](https://github.com/grscheller/bm-probability-distributions/)
+* [bm-pythagorean-triples](https://github.com/grscheller/bm-pythagorean-triples/)
+* [bm-recursive-functions](https://github.com/grscheller/bm-recursive-functions/)
 
 ## Documentation Generation
 
