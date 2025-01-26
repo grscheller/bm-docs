@@ -1,39 +1,42 @@
-## Boring Math Library
-
-WORK IN PROGRESS - breaking up grscheller/boring-math mono-repo
+# Boring Math Library
 
 Python project of packages of a mathematical nature.
 
-### Overview:
+## Overview:
 
 The Boring Math library consists of Python PyPI namespace packages all
-under an empty **bm.** "namespace."
+under the **bm.** "namespace."
 
-* bm.integer-math
-* bm.probability-distributions
-* bm.pythagorean-triples
-* bm.recursive-functions
+* integer-math - number theory and combinatorics
+* probability-distributions - visually data & probability distributions
+* pythagorean-triples - generating Pythagorean Triples
+* recursive-functions - recursive function implementations
 
 The purpose of this collection of PyPI namespace projects is to host
 and provide infrastructure for my Python mathematical hobby projects.
 
 The project name was suggested by my then 13 year old daughter Mary.
 
-### Documentation
+## PyPI
 
-[Detailed documentation](https://grscheller.github.io/boring-math-docs/)
-for the Boring Math project.
+Projects on PyPI:
 
-### Source Code
+* [bm.integer_math](//https://pypi.org/project/bm.integer-math/)
+* [bm.probability_distributions](https://pypi.org/project/bm.probability-distributions/)
+* [bm.pythagorean_triples](https://pypi.org/project/bm.pythagorean-triples/)
+* [bm.recursive_functions](https://pypi.org/project/bm.recursive-functions/)
 
-GitHub source code subpackage repos:
 
-* [bm.integer_math](https://github.com/grscheller/bm-integer-math)
-* [bm.probability_distributions](https://github.com/grscheller/bm-probability-distributions)
-* [bm.pythagorean_triples](https://github.com/grscheller/bm-pythagorean-triples)
-* [bm.recursive_functions](https://github.com/grscheller/bm-recursive-functions)
+## Source Code
 
-### Documentation Generation
+GitHub source code repos:
+
+* [bm-integer_math](https://github.com/grscheller/bm-integer-math/)
+* [bm-probability_distributions](https://github.com/grscheller/bm-probability-distributions/)
+* [bm-pythagorean_triples](https://github.com/grscheller/bm-pythagorean-triples/)
+* [bm-recursive_functions](https://github.com/grscheller/bm-recursive-functions/)
+
+## Documentation Generation
 
 Using the bm.integer-math as an example, here is how one generates the
 docs with [pdoc](https://pypi.org/project/pdoc/). The integer-math
