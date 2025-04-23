@@ -15,7 +15,7 @@ The library's name was suggested by my then 13 year old daughter Mary.
 
 | Python Package | Projects (PyPI) | Source Code (GitHub) |
 |:-------------- |:--------------- |:-------------------- |
-| bm.integer_math | [bm.integer-math][11] | [dtools-circular-array][21] |
+| bm.integer_math | [bm.integer-math][11] | [bm-integer-math][21] |
 | bm.probability_distributions | [bm.probability-distributions][12] | [bm-probability-distributions][22] |
 | bm.pythagorean_triples | [bm.pythagorean-triples][13] | [bm-pythagorean-triples][23] |
 | bm.recursive_functions | [bm.recursive-functions][14] | [bm-recursive-functions][24] |
@@ -29,9 +29,9 @@ Refer to the pyproject.toml for compatible versions to install in the
 virtual environment.
 
 ```bash
-    cd docs/integer_math/API/development/
+    cd ~/devel/pypi/bm/boring-math-docs/integer-math/API/development
     rm -r bm/ index.html search.js
-    PYTHONPATH=~/devel/pypi/boring-math/src
+    PYTHONPATH=~/devel/pypi/bm/bm-integer-math:~/devel/pypi/dtools/dtools-circular-array:~/devel/pypi/dtools/dtools-fp
     pdoc -o . bm.integer_math
 ```
 
