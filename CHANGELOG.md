@@ -2,6 +2,16 @@
 
 PyPI Boring Math `bm` namespace projects
 
+### 2025-07-14 - pythonic-fp migration complete
+
+Migration complete, all dtools PyPI projects and corresponding GitHub
+repos have been archived. 
+
+### 2025-07-13 - pythonic-fp migration
+
+Migrating dependencies from dtools to pythonic-fp PyPI namespace. Once
+completed, I plan to archive my PyPI and GitHub dtools namespace repos.
+
 ### 2025-04-22 - Renamed repo
 
 - renamed `grscheller/boring-math-docs` GitHub repo to `grscheller/bm-docs` 
