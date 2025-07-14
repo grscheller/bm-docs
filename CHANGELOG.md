@@ -14,6 +14,8 @@ Latest PyPI Releases for
 - bm.pythagorean-triples v0.6.1
 - bm.recursive-functions v0.6.1
 
+Also got rid of links to the old grscheller.bm documentation.
+
 ### 2025-07-13 - pythonic-fp migration
 
 Migrating dependencies from dtools to pythonic-fp PyPI namespace. Once
