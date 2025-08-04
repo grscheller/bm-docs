@@ -1,4 +1,8 @@
-# Boring Math Library
+# Boring Math Library - PROJECT MOVED
+
+Effort moved to [boring-math](https://pypi.org/project/boring-math/) on PyPI.
+When I chose `bm` namespace name I did not realize the base name was already
+taken.
 
 Collection of Python PyPI projects of a mathematical nature. All under
 the `bm` namespace. The purpose of this collection is to host and
